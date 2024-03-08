@@ -12,7 +12,7 @@
 
 ### LinkedIn 
 <p>
-  <a [href="https://www.linkedin.com/[removed]](https://linkedin.com/in/kriswen/)" rel="nofollow noreferrer">
+  <a [href="https://linkedin.com/in/kriswen/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/kriswen" rel="nofollow noreferrer">
