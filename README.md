@@ -11,8 +11,14 @@
 </p>
 
 ### LinkedIn 
-<a href="https://linkedin.com/in/kriswen/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-
+<p>
+  <a [href="https://www.linkedin.com/[removed]](https://linkedin.com/in/kriswen/)" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/kriswen" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
 <!--
 **kriswen/kriswen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
