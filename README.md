@@ -11,14 +11,7 @@
 </p>
 
 ### LinkedIn 
-<p>
-  <a href="https://linkedin.com/in/kriswen/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="https://github.com/kriswen" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
-</p>
+<p>"https://linkedin.com/in/kriswen/"</p>
 <!--
 **kriswen/kriswen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
